@@ -8,16 +8,15 @@
     "about": "I am TimoCST a Iceboatracer and Rcing  if i can  :) I am Living In germany"
   },
   "leagues": [
-    { "name": "BRWC League R", "game": "Minecraft", "series": "BRWC", "status": "Aktiv" }
+    { "name": "BRWC League R", "game": "Minecraft", "series": "BRWC", "status": "Aktiv" },
     { "name": "COTW", "game": "Minecraft", "series": "Boatlabs", "status": "Aktiv" }
   ],
   "rc": [
-    { "name": "Formula Um", "class": "Baotalbs", "note": "" }
+    { "name": "Formula Um", "class": "Baotalbs", "note": "" },
     { "name": "IEC", "class": "Frosthex", "note": "" }
   ],
   "races": [
     { "date": "2026-11-07", "league": "COTW", "track": "Dubwhy", "pos": 19, "note": "" },
-    { "date": "2026-10-31", "league": "League R", "track": "PassionPark", "pos": 13, "note": "" },
-    
+    { "date": "2026-10-31", "league": "League R", "track": "PassionPark", "pos": 13, "note": "" }
   ]
 }
