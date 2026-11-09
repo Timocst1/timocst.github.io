@@ -1,21 +1,23 @@
 {
   "profile": {
-    "name": "Max Mustermann",
-    "alias": "MaxRacing",
-    "tagline": "Sim-Racer. Liga-Fahrer. RC-Fan.",
-    "youtube": "https://www.youtube.com/@DEIN-KANAL",
-    "email": "kontakt@example.com",
-    "about": "Hier steht dein Text über dich: Seit wann du Sim-Racing fährst, welches Setup du nutzt und was dich antreibt."
+    "name": "Timo CST",
+    "alias": "TimoCST",
+    "tagline": "Iceboatraceer",
+    "youtube": "https://www.youtube.com/@TimoCST",
+    "email": "timocst6@gmail.com",
+    "about": "I am TimoCST a Iceboatracer and Rcing  if i can  :) I am Living In germany"
   },
   "leagues": [
-    { "name": "Beispiel Endurance League", "game": "iRacing", "series": "GT3, Division 2", "status": "Aktiv" }
+    { "name": "BRWC League R", "game": "Minecraft", "series": "BRWC", "status": "Aktiv" }
+    { "name": "COTW", "game": "Minecraft", "series": "Boatlabs", "status": "Aktiv" }
   ],
   "rc": [
-    { "name": "Beispiel RC Club Serie", "class": "1:10 Touring", "note": "Montags, Indoor-Strecke" }
+    { "name": "Formula Um", "class": "Baotalbs", "note": "" }
+    { "name": "IEC", "class": "Frosthex", "note": "" }
   ],
   "races": [
-    { "date": "2026-11-02", "league": "Beispiel Endurance League", "track": "Spa-Francorchamps", "pos": 1, "note": "Pole + schnellste Runde" },
-    { "date": "2026-10-26", "league": "Beispiel Endurance League", "track": "Monza", "pos": 3, "note": "" },
-    { "date": "2026-10-19", "league": "Beispiel Endurance League", "track": "Suzuka", "pos": 7, "note": "Safety Car" }
+    { "date": "2026-11-07", "league": "COTW", "track": "Dubwhy", "pos": 19, "note": "" },
+    { "date": "2026-10-31", "league": "League R", "track": "PassionPark", "pos": 13, "note": "" },
+    
   ]
 }
